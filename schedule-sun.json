@@ -1,0 +1,198 @@
+{
+  "stages": [
+    {
+     "name": "🎪 Mainstage",
+     "entries": [
+       {
+         "artist": "Daf",
+         "start_time": "13:00",
+         "end_time": "15:00"
+       },
+       {
+         "artist": "Michel De Hey",
+         "start_time": "15:00",
+         "end_time": "17:00"
+       },
+       {
+         "artist": "Paul Kalkbrenner",
+         "start_time": "17:00",
+         "end_time": "18:30"
+       },
+       {
+         "artist": "Ben Hemsley",
+         "start_time": "18:30",
+         "end_time": "20:00"
+       },
+       {
+         "artist": "Indira Paganotto",
+         "start_time": "20:00",
+         "end_time": "21:30"
+       },
+       {
+         "artist": "Reinier Zonneveld Live",
+         "start_time": "21:30",
+         "end_time": "23:00"
+       }
+      ]
+    },
+    {
+       "name": "🚧 The Bridge",
+       "entries": [
+         {
+           "artist": "Varya Karpova",
+           "start_time": "14:30",
+           "end_time": "16:00"
+         },
+         {
+           "artist": "Pawlowski",
+           "start_time": "16:00",
+           "end_time": "17:30"
+         },
+         {
+           "artist": "Alignment",
+           "start_time": "17:30",
+           "end_time": "18:30"
+         },
+         {
+           "artist": "Stan Christ",
+           "start_time": "18:30",
+           "end_time": "19:30"
+         },
+         {
+           "artist": "Fatima Hajji",
+           "start_time": "19:30",
+           "end_time": "20:30"
+         },
+         {
+           "artist": "Shlømo",
+           "start_time": "20:30",
+           "end_time": "21:30"
+         },
+         {
+           "artist": "Sara Landry",
+           "start_time": "21:30",
+           "end_time": "23:00"
+         }
+       ]
+     },
+     {
+       "name": "🏆 Gold Stage",
+       "entries": [
+         {
+          "artist": "ByØrn",
+          "start_time": "13:00",
+          "end_time": "14:30"
+        },
+        {
+          "artist": "B2",
+          "start_time": "14:30",
+          "end_time": "16:00"
+        },
+        {
+          "artist": "Lena",
+          "start_time": "16:00",
+          "end_time": "17:30"
+        },
+        {
+          "artist": "Daniella Da Silva",
+          "start_time": "17:30",
+          "end_time": "18:30"
+        },
+        {
+          "artist": "Callush",
+          "start_time": "18:30",
+          "end_time": "19:45"
+        },
+        {
+          "artist": "Basswell",
+          "start_time": "19:45",
+          "end_time": "21:00"
+        },
+        {
+          "artist": "Alfred Heinrichs",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        }
+      ]
+    },
+    {
+      "name": "🏛 Colloseum",
+      "entries": [
+        {
+          "artist": "Rob Stillekens",
+          "start_time": "13:00",
+          "end_time": "14:30"
+        },
+        {
+          "artist": "Jasper Fioole",
+          "start_time": "14:30",
+          "end_time": "16:00"
+        },
+        {
+          "artist": "Kerri Chandler",
+          "start_time": "16:00",
+          "end_time": "17:30"
+        },
+        {
+          "artist": "Benny Rodrigues",
+          "start_time": "17:30",
+          "end_time": "18:30"
+        },
+        {
+          "artist": "Franky Rizardo",
+          "start_time": "18:30",
+          "end_time": "21:00"
+        },
+        {
+          "artist": "Joseph Capriati",
+          "start_time": "21:00",
+          "end_time": "23:00"
+        }
+      ]
+    },
+    {
+      "name": "⛓ Unreal",
+      "entries": [
+        {
+          "artist": "Gutkind",
+          "start_time": "13:00",
+          "end_time": "14:30"
+        },
+        {
+          "artist": "Johannes Schuster",
+          "start_time": "14:30",
+          "end_time": "15:45"
+        },
+        {
+          "artist": "Kobosil",
+          "start_time": "15:45",
+          "end_time": "17:00"
+        },
+        {
+          "artist": "Trym",
+          "start_time": "17:00",
+          "end_time": "18:00"
+        },
+        {
+          "artist": "I Hate Models",
+          "start_time": "18:00",
+          "end_time": "19:30"
+        },
+        {
+          "artist": "999999999",
+          "start_time": "19:30",
+          "end_time": "20:30"
+        },
+        {
+          "artist": "Dyen",
+          "start_time": "20:30",
+          "end_time": "22:00"
+        },
+        {
+          "artist": "6ejou",
+          "start_time": "22:00",
+          "end_time": "00:00"
+          }]
+        }
+      ]
+    }

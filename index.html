@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Timetable</title>
+<style>
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,900,900i');
+
+  html {
+    font-family: 'Roboto';
+  }
+
+  body {
+    background: #121212;
+    /* background-image: url(pattern.png);
+    background-repeat: no-repeat; */
+        padding: 0;
+    margin: 0;
+  }
+
+  h2 {
+    padding: 20px 20px;
+    margin: 0;
+    color: #121212;
+    background: #844ad5;
+    text-transform: uppercase;
+    font-weight: 600;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+  }
+
+  ul {
+    list-style-type: none; /* Remove bullets from list items */
+    padding: 0;
+    margin: 0;
+    margin-bottom: 50px;
+  }
+
+  li {
+    padding: 10px 20px;
+    font-weight: 100;
+    color: rgba(255,255,255,0.5);
+  }
+
+  li:nth-child(odd) {
+    background-color: rgba(255,255,255,0.05); /* Alternate background color for odd list items */
+  }
+
+
+
+  .current {
+    background-color: rgba(132,74,213,0.6) !important; /* Adjust the highlight color as needed */
+    font-weight: 400;
+    color: white;
+    font-size: 1em'
+  }
+
+
+
+
+
+
+  .countdown {
+    width: 90px;
+    display: inline-block;
+  }
+
+  #header {
+    display: block;
+    background-color: #844ad5;
+    text-align: center;
+    width:100%;
+    padding: 25px 0;
+    background-image: url(https://freeyourmindfestival.nl/preview/wp-content/uploads/2022/12/B93I6699-Chiel-Eijt.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+</style>
+</head>
+<body>
+<div id="header">
+<img src="https://freeyourmindfestival.nl/preview/wp-content/uploads/2022/11/fym.svg" height="100px" >
+</div>
+<div id="schedule"></div>
+
+<script src="script.js"></script>
+</body>
+</html>

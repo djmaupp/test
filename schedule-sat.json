@@ -1,0 +1,184 @@
+{
+  "stages": [
+    {
+      "name": "🎪 Main Stage",
+      "entries": [
+        {
+          "artist": "Talee",
+          "start_time": "13:00",
+          "end_time": "14:30"
+        },
+        {
+          "artist": "Moritz Hofbauer",
+          "start_time": "14:30",
+          "end_time": "15:30"
+        },
+        {
+          "artist": "Ann Clue",
+          "start_time": "15:30",
+          "end_time": "17:00"
+        },
+        {
+          "artist": "Artbat",
+          "start_time": "17:00",
+          "end_time": "19:00"
+        },
+        {
+          "artist": "Joris Voorn",
+          "start_time": "19:00",
+          "end_time": "20:30"
+        },
+        {
+          "artist": "Kölsch",
+          "start_time": "20:30",
+          "end_time": "22:00"
+        },
+        {
+          "artist": "Boris Brejcha",
+          "start_time": "22:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+       "name": "🚧 The Bridge",
+       "entries": [
+         {
+           "artist": "Nuscha",
+           "start_time": "14:30",
+           "end_time": "16:00"
+         },
+         {
+           "artist": "Len Faki",
+           "start_time": "16:00",
+           "end_time": "17:30"
+         },
+         {
+           "artist": "Speedy J",
+           "start_time": "17:30",
+           "end_time": "18:30"
+         },
+         {
+           "artist": "Remy Unger",
+           "start_time": "18:30",
+           "end_time": "19:45"
+         },
+         {
+           "artist": "Onyvaa",
+           "start_time": "19:45",
+           "end_time": "21:00"
+         },
+         {
+           "artist": "Maceo Plex",
+           "start_time": "21:00",
+           "end_time": "22:30"
+         },
+         {
+           "artist": "Chris Liebing",
+           "start_time": "22:30",
+           "end_time": "00:00"
+         }
+       ]
+     },
+     {
+       "name": "🏖 The Beach",
+       "entries": [
+         {
+           "artist": "Hedda Stenberg",
+           "start_time": "13:00",
+           "end_time": "15:00"
+         },
+         {
+           "artist": "Mees Salomé",
+           "start_time": "15:00",
+           "end_time": "17:00"
+         },
+         {
+           "artist": "Andhim",
+           "start_time": "17:00",
+           "end_time": "19:00"
+         },
+         {
+           "artist": "Miss Melera b2b Olivier Weiter",
+           "start_time": "19:00",
+           "end_time": "21:00"
+         },
+         {
+           "artist": "Ame Live b2b Trikk",
+           "start_time": "21:00",
+           "end_time": "23:30"
+         }
+       ]
+     },
+    {
+      "name": "🏛 Colloseum",
+      "entries": [
+        {
+          "artist": "Vlado x LEYO",
+          "start_time": "13:00",
+          "end_time": "15:00"
+        },
+        {
+          "artist": "Baggi Begovic + Boris Ross",
+          "start_time": "15:00",
+          "end_time": "17:00"
+        },
+        {
+          "artist": "William Djoko",
+          "start_time": "17:00",
+          "end_time": "18:30"
+        },
+        {
+          "artist": "Prunk & Sidney Charles",
+          "start_time": "18:30",
+          "end_time": "20:30"
+        },
+        {
+          "artist": "Jamie Jones",
+          "start_time": "20:30",
+          "end_time": "22:00"
+        },
+        {
+          "artist": "Loco Dice",
+          "start_time": "22:00",
+          "end_time": "00:00"
+        }
+      ]
+    },
+    {
+      "name": "⛓ Unreal",
+      "entries": [
+        {
+          "artist": "Theodor Nabuurs",
+          "start_time": "13:00",
+          "end_time": "15:00"
+        },
+        {
+          "artist": "Kalte Liebe Live",
+          "start_time": "15:00",
+          "end_time": "16:30"
+        },
+        {
+          "artist": "Charlie Sparks",
+          "start_time": "16:30",
+          "end_time": "18:00"
+        },
+        {
+          "artist": "Cloudy b2b Kuko",
+          "start_time": "18:00",
+          "end_time": "20:00"
+        },
+        {
+          "artist": "Richie Hawtin",
+          "start_time": "20:00",
+          "end_time": "22:00"
+        },
+        {
+          "artist": "Paula Temple b2b SNTS",
+          "start_time": "22:00",
+          "end_time": "00:00"
+        }
+        ]
+      }
+    ]
+  }
