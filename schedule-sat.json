@@ -36,7 +36,7 @@
         {
           "artist": "Boris Brejcha",
           "start_time": "22:00",
-          "end_time": "00:00"
+          "end_time": "23:59"
         }
       ]
     },
@@ -76,7 +76,7 @@
          {
            "artist": "Chris Liebing",
            "start_time": "22:30",
-           "end_time": "00:00"
+           "end_time": "23:59"
          }
        ]
      },
@@ -141,7 +141,7 @@
         {
           "artist": "Loco Dice",
           "start_time": "22:00",
-          "end_time": "00:00"
+          "end_time": "23:59"
         }
       ]
     },
@@ -176,7 +176,7 @@
         {
           "artist": "Paula Temple b2b SNTS",
           "start_time": "22:00",
-          "end_time": "00:00"
+          "end_time": "23:59"
         }
         ]
       }
